@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.image-01{
+  position: relative;
+}
+.image-paragraph{
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  color: white;
+  
+}
+.paragraph-01{
+  font-family: sans-serif;
+  padding-left: 300px;
+  padding-top: 50px;
+  line-height: 30px;
+  font-size: 20px;
+}
+.paragraph-01>h3{
+  font-family: 'Dawning of a New Day', cursive;
+  padding-left: 300px;
+}
+.paragraph-01>h6{
+  padding-left: 300px;
+  color: gray;
+  padding-top: 30px;
+}
+/* .paragraph-02{
+  display: flex;
+  flex-direction: row;
+}
+.paragraph-02>span{
+  background-color: green;
+  width: 50px;
+ height: 5px;
+ margin-left: 300px;
+ margin-top: 100px;
+ position: absolute;
+ left: 0px;
+} */
+.paragraph-02>h3{
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.paragraph-03{
+  font-size: 14px;
+  line-height: 30px;
+  margin-left: 300px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+}
+hr{
+  margin-top: 120px;
+ 
+}
